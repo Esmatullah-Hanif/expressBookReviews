@@ -56,12 +56,17 @@ This API provides various endpoints for managing books and user reviews. You can
    ```
    cd expressBookReviews
 
-3. Install dependencies using npm:
+3. Navigate to the api directory:
+
+   ```
+   cd final_project
+
+4. Install dependencies using npm:
 
    ```
    npm install
 
-4. To start the API server, run the following command:
+5. To start the API server, run the following command:
 
    ```
    npm start
